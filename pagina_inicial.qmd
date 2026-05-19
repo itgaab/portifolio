@@ -1,7 +1,7 @@
 ---
 title: "Ítalo G. da Silva"
 subtitle: "Discente & Pesquisador | Departamento de Estatística | UEPB"
-image: profile2.jpeg
+image: perfil.jpg
 about:
   template: jolla
   links:
