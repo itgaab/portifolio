@@ -4,70 +4,196 @@
     "href": "repositorios.html",
     "title": "Repositórios",
     "section": "",
-    "text": "PIBIC - Violência contra as Mulheres na Paraíba em 2021 e 2022Projetos desenvolvidos na disciplina de Econometria na UEPB em 2025.1Projetos desenvolvidos na disciplina Planejamneto e Análise de Experimentos I na UEPB em 2025.2\n\n\nGitHub\n\n\nGitHub\n\n\nGitHub"
+    "text": "Espaço dedicado aos projetos acadêmicos, pesquisas e aplicações desenvolvidas na graduação.\n\n\n\n\nProjeto de iniciação científica voltado à análise estatística e espacial dos casos de violência contra a mulher e feminicídio no estado da Paraíba durante o período da pandemia da COVID-19.\n\nTecnologias:\nR Excel Word\n\n🔗 GitHub\n\n\n\nRepositório contendo projetos desenvolvidos na disciplina de Econometria, envolvendo modelagem estatística, regressão linear e aplicações econômicas utilizando dados reais.\n\nTecnologias:\nR Econometria\n\n🔗 GitHub\n\n\n\nProjetos desenvolvidos na disciplina de Planejamento Experimental, abordando delineamentos experimentais, análise de variância e interpretação estatística.\n\nTecnologias:\nR Estatística Experimental\n\n🔗 GitHub"
+  },
+  {
+    "objectID": "repositorios.html#pibic-violência-contra-as-mulheres-na-paraíba-20212022",
+    "href": "repositorios.html#pibic-violência-contra-as-mulheres-na-paraíba-20212022",
+    "title": "Repositórios",
+    "section": "",
+    "text": "Projeto de iniciação científica voltado à análise estatística e espacial dos casos de violência contra a mulher e feminicídio no estado da Paraíba durante o período da pandemia da COVID-19.\n\nTecnologias:\nR Excel Word\n\n🔗 GitHub"
+  },
+  {
+    "objectID": "repositorios.html#projetos-de-econometria-uepb-2025.1",
+    "href": "repositorios.html#projetos-de-econometria-uepb-2025.1",
+    "title": "Repositórios",
+    "section": "",
+    "text": "Repositório contendo projetos desenvolvidos na disciplina de Econometria, envolvendo modelagem estatística, regressão linear e aplicações econômicas utilizando dados reais.\n\nTecnologias:\nR Econometria\n\n🔗 GitHub"
+  },
+  {
+    "objectID": "repositorios.html#planejamento-e-análise-de-experimentos-i-uepb-2025.2",
+    "href": "repositorios.html#planejamento-e-análise-de-experimentos-i-uepb-2025.2",
+    "title": "Repositórios",
+    "section": "",
+    "text": "Projetos desenvolvidos na disciplina de Planejamento Experimental, abordando delineamentos experimentais, análise de variância e interpretação estatística.\n\nTecnologias:\nR Estatística Experimental\n\n🔗 GitHub"
   },
   {
     "objectID": "projeto1.html",
     "href": "projeto1.html",
-    "title": "Projeto de Pesquisa",
+    "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "🌱 Classificadores para Séries Temporais de dados SAR\nFinanciador: CNPq – Projeto de Extensão\nPeríodo: 2025–2026\nCoordenação: Prof. Dr. Pedro M. Almeida-Junior\nObjetivo\nDesenvolver novos classificadores baseados em medidas de divergência para séries temporais em dados SAR.\nEquipe - Prof. Dr. Pedro M. Almeida-Junior\n- Ítalo Gabriel da Silva\nResultados Esperados - Submissão de 1 artigo para periódico internacional\n\n\n📊 QUALIFICANDO E QUANTIFICANDO A VIOLÊNCIA CONTRA A MULHER NA PARAÍBA NOS ANOS DE 2021 E 2022\nFinanciador: CNPq – PIBIC\nPeríodo: 2023–2024\nCoordenação: Profª. Dra. Ivonildes da Silva Fonseca\nObjetivo Alcançado\nAnálisar os casos registrados de violência contra as mulheres e femínicidio no estado da Paraíba entre os anos de 2021 e 2022, quando estava no pico da pandemia da COVID-19\nEquipe - Profª. Dra. Ivonildes da Silva Fonseca, Vice-reitora da UEPB\n- Ítalo Gabriel da Silva\nResultados Alcançados - Publicação de artigo no Ebook “Rede dos Saberes - Volume VII” pela Editora EDUEPB"
+    "text": "Projetos desenvolvidos nas áreas de Estatística Aplicada, Ciência de Dados, Sensoriamento Remoto e Análise Espacial, com foco em pesquisa científica, modelagem estatística e desenvolvimento computacional.\n\n\n\n\n\n\nPeríodo: 2025 – 2026\nCoordenação:\nProf. Dr. Pedro M. Almeida-Junior\n\n\n\n\nDesenvolver novos classificadores estatísticos baseados em medidas de divergência aplicados a séries temporais provenientes de dados SAR (Synthetic Aperture Radar), buscando melhorar o desempenho em tarefas de classificação e reconhecimento de padrões.\n\n\n\n\n\nModelagem estatística de séries temporais\nDesenvolvimento de classificadores\nProcessamento de imagens SAR\nImplementação computacional em R e Python\nAvaliação de desempenho dos métodos\n\n\n\n\n\n\nProf. Dr. Pedro M. Almeida-Junior\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nPublicação de artigo científico internacional\nDesenvolvimento de metodologia inédita\nAplicação em dados reais de sensoriamento remoto\n\n\nTecnologias:\nR Python SAR Machine Learning Estatística Computacional\n\n\n\n\n\n\nPeríodo: 2023 – 2024\nCoordenação:\nProfª. Dra. Ivonildes da Silva Fonseca\n\n\n\n\nAnalisar os registros de violência contra a mulher e feminicídio no estado da Paraíba durante os anos de 2021 e 2022, período marcado pelos impactos sociais da pandemia da COVID-19.\n\n\n\n\n\nOrganização e tratamento de dados.\nAnálise estatística descritiva.\nProdução de mapas temáticos.\nVisualização espacial dos indicadores.\nInterpretação socioestatística dos resultados.\n\n\n\n\n\n\nProfª. Dra. Ivonildes da Silva Fonseca\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nParticipação em evento acadêmico.\nProdução de análises estatísticas\nPublicação em anais de congresso.\nPublicação em Ebook.\n\n\nTecnologias:\nR Excel Estatística Descritiva Modelagem de Banco de Dados Criação de Tabelas e Gráfico\n\n\n\n\n\n\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nSensoriamento Remoto\nEstatística Espacial\nEstatística Descritiva\nMachine Learning\nModelagem de Dados"
   },
   {
-    "objectID": "pagina_inicial.html",
-    "href": "pagina_inicial.html",
-    "title": "Ítalo G. da Silva",
+    "objectID": "projeto1.html#classificadores-para-séries-temporais-de-dados-sar",
+    "href": "projeto1.html#classificadores-para-séries-temporais-de-dados-sar",
+    "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, linguagens de programação como R, Phyton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.\n\n\n\nSéries Temporais.\n\n\nRegressão e Correlação\n\n\nPlanejamento de Experimentos\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB |"
+    "text": "Período: 2025 – 2026\nCoordenação:\nProf. Dr. Pedro M. Almeida-Junior\n\n\n\n\nDesenvolver novos classificadores estatísticos baseados em medidas de divergência aplicados a séries temporais provenientes de dados SAR (Synthetic Aperture Radar), buscando melhorar o desempenho em tarefas de classificação e reconhecimento de padrões.\n\n\n\n\n\nModelagem estatística de séries temporais\nDesenvolvimento de classificadores\nProcessamento de imagens SAR\nImplementação computacional em R e Python\nAvaliação de desempenho dos métodos\n\n\n\n\n\n\nProf. Dr. Pedro M. Almeida-Junior\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nPublicação de artigo científico internacional\nDesenvolvimento de metodologia inédita\nAplicação em dados reais de sensoriamento remoto\n\n\nTecnologias:\nR Python SAR Machine Learning Estatística Computacional"
+  },
+  {
+    "objectID": "projeto1.html#qualificando-e-quantificando-a-violência-contra-a-mulher-na-paraíba",
+    "href": "projeto1.html#qualificando-e-quantificando-a-violência-contra-a-mulher-na-paraíba",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "Período: 2023 – 2024\nCoordenação:\nProfª. Dra. Ivonildes da Silva Fonseca\n\n\n\n\nAnalisar os registros de violência contra a mulher e feminicídio no estado da Paraíba durante os anos de 2021 e 2022, período marcado pelos impactos sociais da pandemia da COVID-19.\n\n\n\n\n\nOrganização e tratamento de dados.\nAnálise estatística descritiva.\nProdução de mapas temáticos.\nVisualização espacial dos indicadores.\nInterpretação socioestatística dos resultados.\n\n\n\n\n\n\nProfª. Dra. Ivonildes da Silva Fonseca\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nParticipação em evento acadêmico.\nProdução de análises estatísticas\nPublicação em anais de congresso.\nPublicação em Ebook.\n\n\nTecnologias:\nR Excel Estatística Descritiva Modelagem de Banco de Dados Criação de Tabelas e Gráfico"
+  },
+  {
+    "objectID": "projeto1.html#áreas-relacionadas",
+    "href": "projeto1.html#áreas-relacionadas",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "Estatística Aplicada\nCiência de Dados\nSéries Temporais\nSensoriamento Remoto\nEstatística Espacial\nEstatística Descritiva\nMachine Learning\nModelagem de Dados"
   },
   {
     "objectID": "pagina_inicial.html#sobre-mim",
     "href": "pagina_inicial.html#sobre-mim",
     "title": "Ítalo G. da Silva",
-    "section": "",
-    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, linguagens de programação como R, Phyton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.\n\n\n\nSéries Temporais.\n\n\nRegressão e Correlação\n\n\nPlanejamento de Experimentos\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB |"
+    "section": "SOBRE MIM",
+    "text": "SOBRE MIM\nSou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.\nAtuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados."
+  },
+  {
+    "objectID": "pagina_inicial.html#áreas-de-interesse",
+    "href": "pagina_inicial.html#áreas-de-interesse",
+    "title": "Ítalo G. da Silva",
+    "section": "ÁREAS DE INTERESSE",
+    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nMachine Learning\nSensoriamento Remoto\nModelagem Estatística\nR & Python"
+  },
+  {
+    "objectID": "pagina_inicial.html#projetos-em-destaque",
+    "href": "pagina_inicial.html#projetos-em-destaque",
+    "title": "Ítalo G. da Silva",
+    "section": "PROJETOS EM DESTAQUE",
+    "text": "PROJETOS EM DESTAQUE\n\n\nAnálise de Séries Temporais\nModelagem e previsão estatística utilizando modelos ARIMA, SARIMA e técnicas modernas de análise temporal.\n\n\nMachine Learning\nAplicação de algoritmos supervisionados e não supervisionados para classificação e agrupamento de dados.\n\n\nSensoriamento Remoto\nProcessamento e análise de imagens orbitais utilizando técnicas estatísticas e computacionais."
+  },
+  {
+    "objectID": "pagina_inicial.html#formação",
+    "href": "pagina_inicial.html#formação",
+    "title": "Ítalo G. da Silva",
+    "section": "FORMAÇÃO",
+    "text": "FORMAÇÃO\n\n\nGraduação em Estatística — UEPB\nFormação voltada para análise de dados, inferência estatística e modelagem computacional.\n\n\nProjetos de Pesquisa\nAtuação em projetos acadêmicos nas áreas de estatística aplicada e ciência de dados.\n\n\nDesenvolvimento Computacional\nExperiência com R, Python, HTML, Quarto e visualização de dados."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Nome: Ítalo Gabriel da Silva\nLattes: Lattes\nORCID: ORCID\nLinkedin: LinkedIn\nEmail: italozil08@gmail.com"
+    "text": "Nome:\nÍtalo Gabriel da Silva\n\nLattes:\nCurrículo Lattes\n\nORCID:\n0009-0002-3246-446X\n\nLinkedIn:\nPerfil LinkedIn\n\nE-mail:\nitalozil08@gmail.com\n\n\n\n\n\nUniversidade Estadual da Paraíba (UEPB)\nPeríodo: 2022 – Atual\n\nFormação voltada à inferência estatística, análise de dados, modelagem computacional, séries temporais, análise de modelos de gressão e ciência de dados."
   },
   {
     "objectID": "cv.html#identificação",
     "href": "cv.html#identificação",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Nome: Ítalo Gabriel da Silva\nLattes: Lattes\nORCID: ORCID\nLinkedin: LinkedIn\nEmail: italozil08@gmail.com"
+    "text": "Nome:\nÍtalo Gabriel da Silva\n\nLattes:\nCurrículo Lattes\n\nORCID:\n0009-0002-3246-446X\n\nLinkedIn:\nPerfil LinkedIn\n\nE-mail:\nitalozil08@gmail.com"
   },
   {
     "objectID": "cv.html#formação-acadêmica",
     "href": "cv.html#formação-acadêmica",
     "title": "Curriculum Vitae",
-    "section": "Formação Acadêmica",
-    "text": "Formação Acadêmica\n\nGraduação em andamento\n2022 - em andamento:\nBacharelando em Estatística\nUniversidade Estadual da Paraíba (UEPB)"
+    "section": "",
+    "text": "Universidade Estadual da Paraíba (UEPB)\nPeríodo: 2022 – Atual\n\nFormação voltada à inferência estatística, análise de dados, modelagem computacional, séries temporais, análise de modelos de gressão e ciência de dados."
   },
   {
-    "objectID": "cv.html#experiência-profissional",
-    "href": "cv.html#experiência-profissional",
+    "objectID": "cv.html#projeto-pibic-violência-contra-a-mulher-na-paraíba",
+    "href": "cv.html#projeto-pibic-violência-contra-a-mulher-na-paraíba",
     "title": "Curriculum Vitae",
-    "section": "Experiência Profissional",
-    "text": "Experiência Profissional\nProjeto de pesquisa PIBIC com o tema “QUALIFICANDO E QUANTIFICANDO A VIOLÊNCIA CONTRA A MULHER NA PARAÍBA NOS ANOS DE 2021 E 2022” na cota 2023/2024, premiado com Menção Honrosa no evento XXXI ENIC dentro do IV Congresso UNIVERSITÁRIO DA UEPB.\nProjeto de pesquisa PIBIC em desenvolvimento com o tema “NOVOS CLASSIFICADORES PARA SÉRIES TEMPORAIS APLICADAS A IMAGENS SAR” na cota 2024/2025 com o professor Dr. Pedro Monteiro de Almeida Junior.\nProjeto de Extensão como bolsista voltado à análise e mensuração dos custos dos principais itens de consumo no município de Campina Grande–PB, no ano de 2023 com carga horária total de 90 horas. Atuação no cálculo e análise do custo da cesta básica, bem como no levantamento sistemático de preços de combustíveis, medicamentos e gás de cozinha, utilizando dados coletados localmente para avaliação do impacto no poder de compra das famílias."
+    "section": "🌱 Projeto PIBIC — Violência Contra a Mulher na Paraíba",
+    "text": "🌱 Projeto PIBIC — Violência Contra a Mulher na Paraíba\nProjeto de pesquisa PIBIC com o tema “QUALIFICANDO E QUANTIFICANDO A VIOLÊNCIA CONTRA A MULHER NA PARAÍBA NOS ANOS DE 2021 E 2022” na cota 2023/2024, premiado com Menção Honrosa no evento XXXI ENIC dentro do IV Congresso UNIVERSITÁRIO DA UEPB.\nCoordenação: Profª. Dra. Ivonildes da Silva Fonseca"
   },
   {
-    "objectID": "cv.html#prêmios-e-publicações",
-    "href": "cv.html#prêmios-e-publicações",
+    "objectID": "cv.html#projeto-pibic-classificadores-para-dados-sar",
+    "href": "cv.html#projeto-pibic-classificadores-para-dados-sar",
     "title": "Curriculum Vitae",
-    "section": "Prêmios e Publicações",
-    "text": "Prêmios e Publicações\nMenção honrosa na área Ciências Humanas pelo trabalho: Qualificando e quantificando a violência contra à mulher na Paraíba nos anos de 2021 e 2022, XXXI Encontro de Iniciação Científica - ENIC.\nPublicação de capítulo de livro: Qualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022. In: Rede de Saberes – Vol. 7. Campina Grande: EDUEPB, 2025, p. 378– 395.\nPublicação em anais de eventos: Qualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022. XXXI Encontro de Iniciação Científica (ENIC) – UEPB, 2024, p. 621."
+    "section": "🛰️ Projeto PIBIC — Classificadores para Dados SAR",
+    "text": "🛰️ Projeto PIBIC — Classificadores para Dados SAR\nProjeto de pesquisa PIBIC em desenvolvimento com o tema “NOVOS CLASSIFICADORES PARA SÉRIES TEMPORAIS APLICADAS A IMAGENS SAR” na cota 2024/2025 com o professor Dr. Pedro Monteiro de Almeida Junior.\nCoordenação: Prof. Dr. Pedro Monteiro de Almeida Junior."
   },
   {
-    "objectID": "cv.html#participaçõesapresentações-em-eventos",
-    "href": "cv.html#participaçõesapresentações-em-eventos",
+    "objectID": "cv.html#projeto-de-extensão-educação-financeira",
+    "href": "cv.html#projeto-de-extensão-educação-financeira",
     "title": "Curriculum Vitae",
-    "section": "PARTICIPAÇÕES/APRESENTAÇÕES EM EVENTOS",
-    "text": "PARTICIPAÇÕES/APRESENTAÇÕES EM EVENTOS\nParticipação no Congresso “V Encontro Paraibano de Estatística - V EPBEST” em 2025;\nParticipação no Congresso “IV Encontro Paraibano de Estatística - EPBEST” em 2023;\nApresentação de pôster no IV Encontro Paraibano de Estatística (EPBEST), 2023: Forecasting utilizando séries temporais e machine learning (Prophet) para previsão da precipitação total mensal (mm) em Campina Grande – PB.\nParticipação no evento “Dia do Estatístico” do Departamento de Estatística da Universidade Estadual da Paraíba em 2023; • Participação no Congresso “II Congresso Universitário da UEPB” em 2022;\nParticipação no evento “O Papel da Ciência de Dados na Estatística” do Departamento de Estatística da Universidade Estadual da Paraíba em 2023."
+    "section": "📊 Projeto de Extensão — Educação Financeira",
+    "text": "📊 Projeto de Extensão — Educação Financeira\nProjeto de Extensão como bolsista voltado à análise e mensuração dos custos dos principais itens de consumo no município de Campina Grande–PB, no ano de 2023 com carga horária total de 90 horas. Atuação no cálculo e análise do custo da cesta básica, bem como no levantamento sistemático de preços de combustíveis, medicamentos e gás de cozinha, utilizando dados coletados localmente para avaliação do impacto no poder de compra das famílias."
+  },
+  {
+    "objectID": "cv.html#premiações",
+    "href": "cv.html#premiações",
+    "title": "Curriculum Vitae",
+    "section": "🏆 Premiações",
+    "text": "🏆 Premiações\n\nMenção Honrosa — Ciências Humanas\nTrabalho premiado:\n“Qualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022”\nXXXI Encontro de Iniciação Científica — ENIC / UEPB"
+  },
+  {
+    "objectID": "cv.html#capítulo-de-livro",
+    "href": "cv.html#capítulo-de-livro",
+    "title": "Curriculum Vitae",
+    "section": "📚 Capítulo de Livro",
+    "text": "📚 Capítulo de Livro\nQualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022\nIn: Rede de Saberes – Volume VII\nCampina Grande: EDUEPB, 2025.\np. 378–395. DOI"
+  },
+  {
+    "objectID": "cv.html#publicação-em-anais",
+    "href": "cv.html#publicação-em-anais",
+    "title": "Curriculum Vitae",
+    "section": "📝 Publicação em Anais",
+    "text": "📝 Publicação em Anais\nQualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022\nXXXI Encontro de Iniciação Científica (ENIC) — UEPB, 2024.\np. 621. DOI"
+  },
+  {
+    "objectID": "cv.html#v-encontro-paraibano-de-estatística-v-epbest",
+    "href": "cv.html#v-encontro-paraibano-de-estatística-v-epbest",
+    "title": "Curriculum Vitae",
+    "section": "📌 V Encontro Paraibano de Estatística — V EPBEST",
+    "text": "📌 V Encontro Paraibano de Estatística — V EPBEST\nParticipação no congresso realizado em 2025."
+  },
+  {
+    "objectID": "cv.html#iv-encontro-paraibano-de-estatística-epbest",
+    "href": "cv.html#iv-encontro-paraibano-de-estatística-epbest",
+    "title": "Curriculum Vitae",
+    "section": "📌 IV Encontro Paraibano de Estatística — EPBEST",
+    "text": "📌 IV Encontro Paraibano de Estatística — EPBEST\nParticipação no congresso realizado em 2023."
+  },
+  {
+    "objectID": "cv.html#apresentação-de-pôster-epbest-2023",
+    "href": "cv.html#apresentação-de-pôster-epbest-2023",
+    "title": "Curriculum Vitae",
+    "section": "🎤 Apresentação de Pôster — EPBEST 2023",
+    "text": "🎤 Apresentação de Pôster — EPBEST 2023\nTrabalho apresentado:\n“Forecasting utilizando séries temporais e machine learning (Prophet) para previsão da precipitação total mensal em Campina Grande – PB”"
+  },
+  {
+    "objectID": "cv.html#dia-do-estatístico-uepb",
+    "href": "cv.html#dia-do-estatístico-uepb",
+    "title": "Curriculum Vitae",
+    "section": "📌 Dia do Estatístico — UEPB",
+    "text": "📌 Dia do Estatístico — UEPB\nParticipação no evento promovido pelo Departamento de Estatística da UEPB em 2023."
+  },
+  {
+    "objectID": "cv.html#o-papel-da-ciência-de-dados-na-estatística",
+    "href": "cv.html#o-papel-da-ciência-de-dados-na-estatística",
+    "title": "Curriculum Vitae",
+    "section": "📌 O Papel da Ciência de Dados na Estatística",
+    "text": "📌 O Papel da Ciência de Dados na Estatística\nParticipação em evento acadêmico promovido pelo Departamento de Estatística da UEPB em 2023."
+  },
+  {
+    "objectID": "cv.html#ii-congresso-universitário-da-uepb",
+    "href": "cv.html#ii-congresso-universitário-da-uepb",
+    "title": "Curriculum Vitae",
+    "section": "📌 II Congresso Universitário da UEPB",
+    "text": "📌 II Congresso Universitário da UEPB\nParticipação no congresso universitário realizado em 2022."
+  },
+  {
+    "objectID": "cv.html#xxxi-encontro-de-iniciação-científica-enic",
+    "href": "cv.html#xxxi-encontro-de-iniciação-científica-enic",
+    "title": "Curriculum Vitae",
+    "section": "📌 XXXI Encontro de Iniciação Científica (ENIC)",
+    "text": "📌 XXXI Encontro de Iniciação Científica (ENIC)\nParticipação no evento acadêmico XXXI ENIC em 2024."
   },
   {
     "objectID": "about.html",
@@ -81,65 +207,72 @@
     "href": "contact.html",
     "title": "Contato",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: italozil08@gmail.com\nTelefone: (83) 99802-4716"
+    "text": "Espaço para contato profissional, acadêmico e colaboração em projetos de pesquisa, consultoria estatística e ciência de dados.\n\n\n\n\n\n\nDepartamento de Estatística — CCT\nCampina Grande — Paraíba — Brasil\n\n\n\n\n\n\n\nE-mail:\nitalozil08@gmail.com\n\nTelefone:\n(83) 99802-4716\n\nDisponível para:\n\nProjetos acadêmicos\nConsultoria estatística\nColaborações em pesquisa"
+  },
+  {
+    "objectID": "contact.html#endereço-profissional",
+    "href": "contact.html#endereço-profissional",
+    "title": "Contato",
+    "section": "",
+    "text": "Departamento de Estatística — CCT\nCampina Grande — Paraíba — Brasil"
   },
   {
     "objectID": "contact.html#informações-de-contato",
     "href": "contact.html#informações-de-contato",
     "title": "Contato",
     "section": "",
-    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: italozil08@gmail.com\nTelefone: (83) 99802-4716"
-  },
-  {
-    "objectID": "contact.html#redes-sociais-e-acadêmicas",
-    "href": "contact.html#redes-sociais-e-acadêmicas",
-    "title": "Contato",
-    "section": "Redes Sociais e Acadêmicas",
-    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
-  },
-  {
-    "objectID": "contact.html#localização",
-    "href": "contact.html#localização",
-    "title": "Contato",
-    "section": "Localização",
-    "text": "Localização"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ítalo G. da Silva",
-    "section": "",
-    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, linguagens de programação como R, Phyton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.\n\n\n\nSéries Temporais.\n\n\nRegressão e Correlação\n\n\nPlanejamento de Experimentos\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB |"
+    "text": "E-mail:\nitalozil08@gmail.com\n\nTelefone:\n(83) 99802-4716\n\nDisponível para:\n\nProjetos acadêmicos\nConsultoria estatística\nColaborações em pesquisa"
   },
   {
     "objectID": "index.html#sobre-mim",
     "href": "index.html#sobre-mim",
     "title": "Ítalo G. da Silva",
-    "section": "",
-    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, linguagens de programação como R, Phyton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.\n\n\n\nSéries Temporais.\n\n\nRegressão e Correlação\n\n\nPlanejamento de Experimentos\n\n\nSensoriamento Remoto (SAR) Estatística Espacial\n\n\n\n\n\n\nBacharelando em Estatística\nUEPB |"
+    "section": "SOBRE MIM",
+    "text": "SOBRE MIM\nSou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.\nAtuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados."
+  },
+  {
+    "objectID": "index.html#áreas-de-interesse",
+    "href": "index.html#áreas-de-interesse",
+    "title": "Ítalo G. da Silva",
+    "section": "ÁREAS DE INTERESSE",
+    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nMachine Learning\nSensoriamento Remoto\nModelagem Estatística\nR & Python"
+  },
+  {
+    "objectID": "index.html#projetos-em-destaque",
+    "href": "index.html#projetos-em-destaque",
+    "title": "Ítalo G. da Silva",
+    "section": "PROJETOS EM DESTAQUE",
+    "text": "PROJETOS EM DESTAQUE\n\n\nAnálise de Séries Temporais\nModelagem e previsão estatística utilizando modelos ARIMA, SARIMA e técnicas modernas de análise temporal.\n\n\nMachine Learning\nAplicação de algoritmos supervisionados e não supervisionados para classificação e agrupamento de dados.\n\n\nSensoriamento Remoto\nProcessamento e análise de imagens orbitais utilizando técnicas estatísticas e computacionais."
+  },
+  {
+    "objectID": "index.html#formação",
+    "href": "index.html#formação",
+    "title": "Ítalo G. da Silva",
+    "section": "FORMAÇÃO",
+    "text": "FORMAÇÃO\n\n\nGraduação em Estatística — UEPB\nFormação voltada para análise de dados, inferência estatística e modelagem computacional.\n\n\nProjetos de Pesquisa\nAtuação em projetos acadêmicos nas áreas de estatística aplicada e ciência de dados.\n\n\nDesenvolvimento Computacional\nExperiência com R, Python, HTML, Quarto e visualização de dados."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projetos de Pesquisa",
+    "title": "Projet em andamento",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
+    "text": "Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional.\n\n\n\n\n\n\nDesenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR Machine Learning\n\n\n\n\n\n\nEstudo de padrões temporais de temperatura, umidade e pressão atmosférica utilizando modelos estatísticos clássicos e modernos.\n\nTécnicas utilizadas:\n\nARIMA e SARIMA\nDecomposição sazonal\nVisualização temporal\nForecasting\n\n\nFerramentas:\nR Forecast Tidyverse\n\n\n\n\n\n\nAplicação de técnicas estatísticas e computacionais para análise de imagens orbitais e classificação de cobertura do solo.\n\nAtividades desenvolvidas:\n\nProcessamento de imagens\nFiltragem Speckle\nClassificação supervisionada\nExtração de informações espaciais\n\n\nTecnologias:\nSNAP QGIS Python\n\n\n\n\n\n\n\nEstatística Aplicada\nCiência de Dados\nMachine Learning\nSéries Temporais\nSensoriamento Remoto\nModelagem Estatística\nVisualização de Dados",
     "crumbs": [
       "Início",
       "Pesquisa",
-      "Projetos de Pesquisa"
+      "Projet em andamento"
     ]
   },
   {
-    "objectID": "projects.html#projeto-em-andamento",
-    "href": "projects.html#projeto-em-andamento",
-    "title": "Projetos de Pesquisa",
+    "objectID": "projects.html#classificadores-para-séries-temporais-sar",
+    "href": "projects.html#classificadores-para-séries-temporais-sar",
+    "title": "Projet em andamento",
     "section": "",
-    "text": "CNPq – PIBIC (2025–2026)\nDesenvolvimento de classificadores baseados em divergências.",
+    "text": "Desenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR Machine Learning",
     "crumbs": [
       "Início",
       "Pesquisa",
-      "Projetos de Pesquisa"
+      "Projet em andamento"
     ]
   },
   {
@@ -147,6 +280,20 @@
     "href": "projeto2.html",
     "title": "Projeto de Extensão",
     "section": "",
-    "text": "📊 ANÁLISE E CUSTO DOS PRINCIPAIS ITENS DE CONSUMO DO MUNICÍPIO DE CAMPINA GRANDE-PB: UMA ESTRATÉGIA PARA EDUCAÇÃO FINANCEIRA COM USO DE APLICATIVO MÓVEL\nFinanciador: UEPB – Projeto de Extensão\nPeríodo: 2023–2024\nCoordenação: Prof. Dr. Ricardo Alves de Olinda\nObjetivo Alcançado\nAnalisar o custo dos principais intens de consumo do munícipio de Campina Grande - PB utilizando uso de aplicativo móvel.\nEquipe - Prof. Dr. Ricardo Alves de Olinda\n- Ítalo Gabriel da Silva"
+    "text": "Projetos voltados à aplicação da Estatística e Ciência de Dados em ações de impacto social, educação financeira e desenvolvimento regional.\n\n\n\n\n\n\nPeríodo: 2023 – 2024\nCoordenação:\nProf. Dr. Ricardo Alves de Olinda\n\n\n\n\nAnalisar os custos dos principais itens de consumo do município de Campina Grande – PB por meio da utilização de aplicativo móvel, contribuindo para ações de educação financeira e acompanhamento de preços pela população.\n\n\n\n\n\nColeta e organização de dados econômicos\nAnálise estatística de preços\nConstrução de indicadores de consumo\nApoio ao desenvolvimento de aplicativo móvel\nProdução de relatórios e visualizações de dados\n\n\n\n\n\n\nProf. Dr. Ricardo Alves de Olinda\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nDesenvolvimento de análises estatísticas aplicadas ao consumo\nApoio à educação financeira da população\nProdução de indicadores econômicos locais\nIntegração entre Estatística e tecnologia móvel\n\n\nTecnologias:\nR Excel Estatística Descritiva Visualização de Dados Google Maps\n\n\n\n\n\n\n\nEducação Financeira\nEstatística Aplicada\nCiência de Dados\nAnálise Econômica\nVisualização de Dados\nTecnologia Mobile"
+  },
+  {
+    "objectID": "projeto2.html#análise-e-custo-dos-principais-itens-de-consumo-do-município-de-campina-grande-pb",
+    "href": "projeto2.html#análise-e-custo-dos-principais-itens-de-consumo-do-município-de-campina-grande-pb",
+    "title": "Projeto de Extensão",
+    "section": "",
+    "text": "Período: 2023 – 2024\nCoordenação:\nProf. Dr. Ricardo Alves de Olinda\n\n\n\n\nAnalisar os custos dos principais itens de consumo do município de Campina Grande – PB por meio da utilização de aplicativo móvel, contribuindo para ações de educação financeira e acompanhamento de preços pela população.\n\n\n\n\n\nColeta e organização de dados econômicos\nAnálise estatística de preços\nConstrução de indicadores de consumo\nApoio ao desenvolvimento de aplicativo móvel\nProdução de relatórios e visualizações de dados\n\n\n\n\n\n\nProf. Dr. Ricardo Alves de Olinda\nÍtalo Gabriel da Silva\n\n\n\n\n\n\nDesenvolvimento de análises estatísticas aplicadas ao consumo\nApoio à educação financeira da população\nProdução de indicadores econômicos locais\nIntegração entre Estatística e tecnologia móvel\n\n\nTecnologias:\nR Excel Estatística Descritiva Visualização de Dados Google Maps"
+  },
+  {
+    "objectID": "projeto2.html#áreas-relacionadas",
+    "href": "projeto2.html#áreas-relacionadas",
+    "title": "Projeto de Extensão",
+    "section": "",
+    "text": "Educação Financeira\nEstatística Aplicada\nCiência de Dados\nAnálise Econômica\nVisualização de Dados\nTecnologia Mobile"
   }
 ]

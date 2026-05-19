@@ -1,44 +1,96 @@
 ---
 title: "Contato"
+format:
+  html:
+    css: styles.css
+    toc: false
 ---
 
-## Informações de Contato
+# Contato
 
-::::: grid
-::: g-col-6
-### Endereço Profissional
+Espaço para contato profissional, acadêmico e colaboração em projetos de pesquisa, consultoria estatística e ciência de dados.
 
-**Universidade Estadual da Paraíba**\
-Departamento de Estatística - CCT Campina Grande, Paraíba.
+<br>
+
+::::: project-grid
+::: project-card
+## 📍 Endereço Profissional
+
+### Universidade Estadual da Paraíba — UEPB
+
+Departamento de Estatística — CCT\
+Campina Grande — Paraíba — Brasil
+
+<br>
 :::
 
-::: g-col-6
-### Contato
+::: project-card
+## 📧 Informações de Contato
 
-**E-mail:** italozil08\@gmail.com
+### Contato Profissional
 
-**Telefone:** (83) 99802-4716
+**E-mail:**\
+italozil08\@gmail.com
+
+<br>
+
+**Telefone:**\
+(83) 99802-4716
+
+<br>
+
+Disponível para:
+
+-   Projetos acadêmicos
+-   Consultoria estatística
+-   Colaborações em pesquisa
 :::
 :::::
 
-## Redes Sociais e Acadêmicas
+<br><br>
 
+# Redes Sociais e Acadêmicas
+
+::: areas
 -   [GitHub](https://github.com/itgaab)
+
+<!-- -->
+
 -   [LinkedIn](https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/)
+:::
 
-## Localização
+<br><br>
 
+# Localização
+
+::: project-card
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 
 library(leaflet)
-library(tidygeocoder)
 
 leaflet() %>%
   addTiles() %>%
-  addMarkers(
-    lng = -35.9209,  # Longitude CORRETA (o anterior estava invertido)
-    lat = -7.2104,   # Latitude CORRETA
-    popup = "UEPB - Campus Bodocongó<br>Av. Baraúnas, 351"
+  
+  addCircleMarkers(
+    lng = -35.92087,
+    lat = -7.210453,
+    radius = 8,
+    popup = "
+    <b>Universidade Estadual da Paraíba</b><br>
+    Departamento de Estatística - CCT<br>
+    Av. Baraúnas, 351 - Campina Grande/PB
+    ",
+    color = "#2563eb",
+    fillOpacity = 0.9
   ) %>%
-  setView(lng = -35.92087, lat = -7.210453, zoom = 14)
+  
+  setView(
+    lng = -35.92087,
+    lat = -7.210453,
+    zoom = 15
+  )
+
 ```
+:::
+
+<br><br>

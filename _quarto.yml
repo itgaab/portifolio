@@ -13,6 +13,9 @@ website:
     left:
       - text: "Início"
         file: index.qmd
+        
+      - text: "Projeto em Andamento"
+        file: projects.qmd
 
       - text: "Projetos de pesquisa"
         file: projeto1.qmd

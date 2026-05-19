@@ -19,34 +19,82 @@ format:
     css: styles.css
 ---
 
-## Sobre mim
+::: {.about-image align="center"}
+<img src="foto.jpg" alt="Foto de Ítalo Gabriel"/>
+:::
 
-Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, linguagens de programação como R, Phyton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.
+<br>
 
-### Áreas de Interesse
+## SOBRE MIM
+
+Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.
+
+Atuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados.
+
+<br>
+
+## ÁREAS DE INTERESSE
 
 ::: areas
-Séries Temporais.
+Estatística Aplicada
+
+Ciência de Dados
+
+Séries Temporais
+
+Machine Learning
+
+Sensoriamento Remoto
+
+Modelagem Estatística
+
+R & Python
 :::
 
-::: areas
-Regressão e Correlação
+<br><br>
+
+## PROJETOS EM DESTAQUE
+
+:::::: project-grid
+::: project-card
+### Análise de Séries Temporais
+
+Modelagem e previsão estatística utilizando modelos ARIMA, SARIMA e técnicas modernas de análise temporal.
 :::
 
-::: areas
-Planejamento de Experimentos
+::: project-card
+### Machine Learning
+
+Aplicação de algoritmos supervisionados e não supervisionados para classificação e agrupamento de dados.
 :::
 
-::: areas
-Sensoriamento Remoto (SAR) Estatística Espacial
+::: project-card
+### Sensoriamento Remoto
+
+Processamento e análise de imagens orbitais utilizando técnicas estatísticas e computacionais.
+:::
+::::::
+
+<br><br>
+
+## FORMAÇÃO
+
+:::::: timeline
+::: timeline-item
+### Graduação em Estatística — UEPB
+
+Formação voltada para análise de dados, inferência estatística e modelagem computacional.
 :::
 
-### Formação
+::: timeline-item
+### Projetos de Pesquisa
 
-:::: grid
-::: g-col-4
-**Bacharelando em Estatística**\
-UEPB \|
+Atuação em projetos acadêmicos nas áreas de estatística aplicada e ciência de dados.
 :::
-::::
-------------------------------------------------------------------------
+
+::: timeline-item
+### Desenvolvimento Computacional
+
+Experiência com R, Python, HTML, Quarto e visualização de dados.
+:::
+::::::

@@ -1,15 +1,100 @@
 ---
-title: "Projetos de Pesquisa"
+title: "Projet em andamento"
 format:
   html:
     css: styles.css
 ---
 
-## Projeto em Andamento
+# Projetos de Pesquisa
 
+Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional.
+
+<br>
+
+:::::: project-grid
 ::: {.project-card onclick="window.location='projeto1.html'"}
-### 🌱 Classificadores para Séries Temporais (SAR)
+## 🌱 Classificadores para Séries Temporais (SAR)
 
-**CNPq – PIBIC** (2025–2026)\
-Desenvolvimento de classificadores baseados em divergências.
+#### CNPq – PIBIC \| 2025 – 2026
+
+Desenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.
+
+<br>
+
+**Principais atividades:**
+
+-   Modelagem estatística de dados SAR
+-   Desenvolvimento de classificadores
+-   Implementação em R e Python
+-   Avaliação de desempenho computacional
+
+<br>
+
+**Tecnologias:**\
+`R` `Python` `SAR` `Machine Learning`
+:::
+
+::: project-card
+### 📊 Análise de Séries Temporais Climáticas
+
+#### Pesquisa Acadêmica
+
+Estudo de padrões temporais de temperatura, umidade e pressão atmosférica utilizando modelos estatísticos clássicos e modernos.
+
+<br>
+
+**Técnicas utilizadas:**
+
+-   ARIMA e SARIMA
+-   Decomposição sazonal
+-   Visualização temporal
+-   Forecasting
+
+<br>
+
+**Ferramentas:**\
+`R` `Forecast` `Tidyverse`
+:::
+
+::: project-card
+### 🛰️ Sensoriamento Remoto e Geoprocessamento
+
+#### Projeto de Pesquisa
+
+Aplicação de técnicas estatísticas e computacionais para análise de imagens orbitais e classificação de cobertura do solo.
+
+<br>
+
+**Atividades desenvolvidas:**
+
+-   Processamento de imagens
+-   Filtragem Speckle
+-   Classificação supervisionada
+-   Extração de informações espaciais
+
+<br>
+
+**Tecnologias:**\
+`SNAP` `QGIS` `Python`
+:::
+::::::
+
+<br><br>
+
+### Linhas de Pesquisa
+
+::: areas
+Estatística Aplicada
+
+Ciência de Dados
+
+Machine Learning
+
+Séries Temporais
+
+Sensoriamento Remoto
+
+Modelagem Estatística
+
+Visualização de Dados
 :::
