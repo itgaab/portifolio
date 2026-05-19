@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Consultoria Estatistica"
-  description: "Site da disciplina de consultoria 2026"
+  title: "ÍG"
+  description: "Site profissional para contato e consultoria estatística "
 
   navbar:
     background: primary
@@ -14,13 +14,14 @@ website:
       - text: "Início"
         file: index.qmd
 
-      - text: "Projetos"
-        file: projects.qmd
+      - text: "Projetos de pesquisa"
+        file: projeto1.qmd
+        
+      - text: "Projetos de extensão"
+        file: projeto2.qmd
 
-      - text: "Disciplinas"
-        menu:
-          - text: "Consultoria Estatística"
-            file: dis_consultoria.qmd
+      - text: "Repositorios Git"
+        file: repositorios.qmd
 
       - text: "CV"
         file: cv.qmd

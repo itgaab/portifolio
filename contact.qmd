@@ -30,6 +30,7 @@ Departamento de Estatística - CCT Campina Grande, Paraíba.
 
 ```{r}
 #| echo: false
+#| Warning: false
 
 library(leaflet)
 library(tidygeocoder)
