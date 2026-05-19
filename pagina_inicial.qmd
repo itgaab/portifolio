@@ -61,7 +61,7 @@ Formação voltada para análise de dados, inferência estatística e modelagem 
 :::
 ::::
 
-# DESENVOLVIMENTO COMPUTACIONAL
+## DESENVOLVIMENTO COMPUTACIONAL
 
 :::: timeline
 ::: timeline-item
