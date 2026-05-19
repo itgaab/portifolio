@@ -1,17 +1,15 @@
 ---
-title: "Projet em andamento"
+title: "Projetos em andamento"
 format:
   html:
     css: styles.css
 ---
 
-# Projetos de Pesquisa
-
 Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional.
 
 <br>
 
-:::::: project-grid
+::::: project-grid
 ::: {.project-card onclick="window.location='projeto1.html'"}
 ## 🌱 Classificadores para Séries Temporais (SAR)
 
@@ -31,70 +29,30 @@ Desenvolvimento de classificadores estatísticos aplicados a séries temporais p
 <br>
 
 **Tecnologias:**\
-`R` `Python` `SAR` `Machine Learning`
+`R` `Python` `SAR` `SNAP13` `ASF Alask`
 :::
 
 ::: project-card
-### 📊 Análise de Séries Temporais Climáticas
+## 📊 Análise Espacial da Violência no Estado de Pernambuco
 
-#### Pesquisa Acadêmica
+### Pesquisa Acadêmica
 
-Estudo de padrões temporais de temperatura, umidade e pressão atmosférica utilizando modelos estatísticos clássicos e modernos.
-
-<br>
-
-**Técnicas utilizadas:**
-
--   ARIMA e SARIMA
--   Decomposição sazonal
--   Visualização temporal
--   Forecasting
+Estudo estatístico e espacial da violência no estado de Pernambuco, utilizando técnicas de análise espacial, visualização geográfica e interpretação de indicadores socioeconômicos.
 
 <br>
 
-**Ferramentas:**\
-`R` `Forecast` `Tidyverse`
+### Técnicas Utilizadas
+
+-   Estatística Espacial
+-   Análise Exploratória de Dados
+-   Construção de Mapas Temáticos
+-   Geoprocessamento
+-   Visualização Espacial
+
+<br>
+
+### Ferramentas
+
+`R` `QGIS`
 :::
-
-::: project-card
-### 🛰️ Sensoriamento Remoto e Geoprocessamento
-
-#### Projeto de Pesquisa
-
-Aplicação de técnicas estatísticas e computacionais para análise de imagens orbitais e classificação de cobertura do solo.
-
-<br>
-
-**Atividades desenvolvidas:**
-
--   Processamento de imagens
--   Filtragem Speckle
--   Classificação supervisionada
--   Extração de informações espaciais
-
-<br>
-
-**Tecnologias:**\
-`SNAP` `QGIS` `Python`
-:::
-::::::
-
-<br><br>
-
-### Linhas de Pesquisa
-
-::: areas
-Estatística Aplicada
-
-Ciência de Dados
-
-Machine Learning
-
-Séries Temporais
-
-Sensoriamento Remoto
-
-Modelagem Estatística
-
-Visualização de Dados
-:::
+:::::

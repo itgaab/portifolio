@@ -1,12 +1,10 @@
 ---
-title: "Contato"
+title: "Contatos"
 format:
   html:
     css: styles.css
     toc: false
 ---
-
-# Contato
 
 Espaço para contato profissional, acadêmico e colaboração em projetos de pesquisa, consultoria estatística e ciência de dados.
 

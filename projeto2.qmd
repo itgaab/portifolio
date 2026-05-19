@@ -1,11 +1,9 @@
 ---
-title: "Projeto de Extensão"
+title: "Projetos de Extensão"
 format:
   html:
     css: styles.css
 ---
-
-# Projetos de Extensão
 
 Projetos voltados à aplicação da Estatística e Ciência de Dados em ações de impacto social, educação financeira e desenvolvimento regional.
 

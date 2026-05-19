@@ -7,7 +7,7 @@ format:
   pdf: default
 ---
 
-# Informações Acadêmicas
+## Informações Acadêmicas
 
 ::::: project-grid
 ::: project-card

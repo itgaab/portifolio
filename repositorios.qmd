@@ -1,12 +1,10 @@
 ---
-title: "Repositórios"
+title: "Repositórios GitHub"
 format:
   html:
     css: styles.css
     toc: true
 ---
-
-# Repositórios GitHub
 
 Espaço dedicado aos projetos acadêmicos, pesquisas e aplicações desenvolvidas na graduação.
 

@@ -5,8 +5,6 @@ format:
     css: styles.css
 ---
 
-# Projetos de Pesquisa
-
 Projetos desenvolvidos nas áreas de Estatística Aplicada, Ciência de Dados, Sensoriamento Remoto e Análise Espacial, com foco em pesquisa científica, modelagem estatística e desenvolvimento computacional.
 
 <br>

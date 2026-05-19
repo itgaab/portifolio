@@ -19,10 +19,6 @@ format:
     css: styles.css
 ---
 
-::: {.about-image align="center"}
-<img src="foto.jpg" alt="Foto de Ítalo Gabriel"/>
-:::
-
 <br>
 
 ## SOBRE MIM
@@ -53,48 +49,22 @@ R & Python
 
 <br><br>
 
-## PROJETOS EM DESTAQUE
-
-:::::: project-grid
-::: project-card
-### Análise de Séries Temporais
-
-Modelagem e previsão estatística utilizando modelos ARIMA, SARIMA e técnicas modernas de análise temporal.
-:::
-
-::: project-card
-### Machine Learning
-
-Aplicação de algoritmos supervisionados e não supervisionados para classificação e agrupamento de dados.
-:::
-
-::: project-card
-### Sensoriamento Remoto
-
-Processamento e análise de imagens orbitais utilizando técnicas estatísticas e computacionais.
-:::
-::::::
-
 <br><br>
 
 ## FORMAÇÃO
 
-:::::: timeline
+:::: timeline
 ::: timeline-item
 ### Graduação em Estatística — UEPB
 
 Formação voltada para análise de dados, inferência estatística e modelagem computacional.
 :::
+::::
 
+# DESENVOLVIMENTO COMPUTACIONAL
+
+:::: timeline
 ::: timeline-item
-### Projetos de Pesquisa
-
-Atuação em projetos acadêmicos nas áreas de estatística aplicada e ciência de dados.
-:::
-
-::: timeline-item
-### Desenvolvimento Computacional
-
 Experiência com R, Python, HTML, Quarto e visualização de dados.
 :::
-::::::
+::::
