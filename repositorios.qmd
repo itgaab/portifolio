@@ -2,17 +2,14 @@
 title: "Repositórios"
 ---
 
-
-::: {.panel-tabset}
+::: panel-tabset
 ## PIBIC - Violência contra as Mulheres na Paraíba em 2021 e 2022
 
 [GitHub](https://github.com/itgaab/PIBIC_violencia_contra_mulher.git)
 
-
 ## Projetos desenvolvidos na disciplina de Econometria na UEPB em 2025.1
 
 [GitHub](https://github.com/itgaab/Projetos_econometria.git)
-
 
 ## Projetos desenvolvidos na disciplina Planejamneto e Análise de Experimentos I na UEPB em 2025.2
 
