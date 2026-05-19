@@ -7,7 +7,7 @@ format:
 
 ## Projeto em Andamento
 
-::: {.project-card onclick="window.location='projeto2.html'"}
+::: {.project-card onclick="window.location='projeto1.html'"}
 ### 🌱 Classificadores para Séries Temporais (SAR)
 
 **CNPq – PIBIC** (2025–2026)\

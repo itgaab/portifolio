@@ -5,50 +5,56 @@ project:
 website:
   title: "Consultoria Estatistica"
   description: "Site da disciplina de consultoria 2026"
-  
+
   navbar:
     background: primary
     search: true
+
     left:
       - text: "Início"
-        file: pagina_inicial.qmd
+        file: index.qmd
+
       - text: "Projetos"
         file: projects.qmd
+
       - text: "Disciplinas"
         menu:
-        - text: "Consultoria Estatística"
-          file: dis_consultoria.qmd
+          - text: "Consultoria Estatística"
+            file: dis_consultoria.qmd
+
       - text: "CV"
         file: cv.qmd
+
       - text: "Contato"
         file: contact.qmd
+
     right:
       - icon: github
-        href: https://github.com/seu-usuario
+        href: https://github.com/itgaab
+
       - icon: linkedin
-        href: https://www.linkedin.com/in/seu-usuario/
+        href: https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/
 
   sidebar:
-    style: "docked"
+    style: docked
     search: true
+
     contents:
       - section: "Pesquisa"
         contents:
           - projects.qmd
+
       - section: "Ensino"
         contents:
           - materials.qmd
 
 format:
   html:
-    theme: 
+    theme:
       light: [cosmo, custom.scss]
       dark: [darkly, custom.scss]
+
     css: styles.css
     toc: true
     code-fold: true
     code-tools: true
-
-
-
-

@@ -5,7 +5,7 @@ format:
     css: styles.css
 ---
 
-::: project
+::: {.project}
 ### 🌱 Classificadores para Séries Temporais de dados SAR
 
 **Financiador:** CNPq – Projeto de Extensão\
@@ -21,7 +21,7 @@ Desenvolver novos classificadores baseados em medidas de divergência para séri
 **Resultados Esperados** - Submissão de 1 artigo para periódico internacional
 :::
 
-::: project
+::: {.project}
 ### 📊 QUALIFICANDO E QUANTIFICANDO A VIOLÊNCIA CONTRA A MULHER NA PARAÍBA NOS ANOS DE 2021 E 2022
 
 **Financiador:** CNPq – PIBIC\
