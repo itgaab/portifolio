@@ -55,9 +55,9 @@ R & Python
 
 :::: timeline
 ::: timeline-item
-### Graduação em Estatística — UEPB
+#### Graduando em Estatística — UEPB
 
-Formação voltada para análise de dados, inferência estatística e modelagem computacional.
+Cursos deu início no pe´riodo 2022.2 e com data prevista para acabar ao fim do período 2026.2.
 :::
 ::::
 
