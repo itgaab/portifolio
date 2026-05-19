@@ -1,0 +1,15 @@
+---
+title: "Projetos de Pesquisa"
+format:
+  html:
+    css: styles.css
+---
+
+## Projeto em Andamento
+
+::: {.project-card onclick="window.location='projeto2.html'"}
+### 🌱 Classificadores para Séries Temporais (SAR)
+
+**CNPq – PIBIC** (2025–2026)\
+Desenvolvimento de classificadores baseados em divergências.
+:::

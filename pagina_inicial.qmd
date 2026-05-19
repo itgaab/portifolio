@@ -1,0 +1,85 @@
+---
+title: "Ítalo G. da Silva"
+subtitle: "Discente & Pesquisador | Departamento de Estatística | UEPB"
+image: profile2.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/
+    - icon: github
+      text: Github
+      href: https://github.com/itgaab
+    - icon: envelope
+      text: Email
+      href: mailto:italozil08@gmail.com
+format:
+  html:
+    css: styles.css
+---
+
+## Sobre mim
+
+Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados. Atuo no uso de ferramentas computacionais, liguagens de programação como R, Pyhton e HTML, voltados à análise estatística e demonstro interesse em pesquisas, modelagem estatística e desenvolvimento de soluções baseadas em análises de dados.
+
+### Áreas de Interesse
+
+::: areas
+Séries Temporais.
+:::
+
+::: areas
+Regressão e Correlação
+:::
+
+::: areas
+Planejamento de Experimentos
+:::
+
+::: areas
+Sensoriamento Remoto (SAR) Estatística Espacial
+:::
+
+### Formação
+
+:::: grid
+::: g-col-4
+**Bacharelando em Estatística**\
+UEPB \|
+:::
+::::
+
+### Destaques Recentes
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(DT)
+library(dplyr)
+
+# Dados das publicações recentes (você pode carregar de um CSV)
+publicacoes_recentes <- data.frame(
+  Ano = c(2023, 2022, 2021),
+  Titulo = c(
+    "Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data",
+    "K-Bessel regression model for speckled data", 
+    "ARMA process for speckled data"
+  ),
+  Journal = c("Environmetrics", "JAS", "JSCS"),
+  Impacto = NA
+)
+
+DT::datatable(
+  publicacoes_recentes,
+  options = list(
+    pageLength = 5,
+    dom = 't',
+    columnDefs = list(list(className = 'dt-center', targets = c(0, 3)))
+  ),
+  rownames = FALSE
+)
+```
+
+------------------------------------------------------------------------

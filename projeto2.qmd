@@ -1,0 +1,20 @@
+---
+title: "Projeto de Extensão"
+format:
+  html:
+    css: styles.css
+---
+
+::: project
+### 📊 ANÁLISE E CUSTO DOS PRINCIPAIS ITENS DE CONSUMO DO MUNICÍPIO DE CAMPINA GRANDE-PB: UMA ESTRATÉGIA PARA EDUCAÇÃO FINANCEIRA COM USO DE APLICATIVO MÓVEL
+
+**Financiador:** UEPB – Projeto de Extensão\
+**Período:** 2023–2024\
+**Coordenação:** Prof. Dr. Ricardo Alves de Olinda
+
+**Objetivo Alcançado**\
+Analisar o custo dos principais intens de consumo do munícipio de Campina Grande - PB utilizando uso de aplicativo móvel.
+
+**Equipe** - Prof. Dr. Ricardo Alves de Olinda\
+- Ítalo Gabriel da Silva
+:::

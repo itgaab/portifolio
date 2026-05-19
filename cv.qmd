@@ -1,0 +1,55 @@
+---
+title: "Curriculum Vitae"
+format: 
+  html: default
+  pdf: default
+---
+
+## Identificação
+
+**Nome:** Ítalo Gabriel da Silva
+
+**Lattes:** [Lattes](https://lattes.cnpq.br/1558859767324947)
+
+**ORCID:** [ORCID](https://orcid.org/0009-0002-3246-446X)
+
+**Linkedin:** [LinkedIn](https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/)
+
+**Email:** italozil08\@gmail.com
+
+## Formação Acadêmica
+
+### Graduação em andamento
+
+**2022 - em andamento:**
+
+**Bacharelando em Estatística**\
+Universidade Estadual da Paraíba (UEPB)
+
+## Experiência Profissional
+
+Projeto de pesquisa PIBIC com o tema "QUALIFICANDO E QUANTIFICANDO A VIOLÊNCIA CONTRA A MULHER NA PARAÍBA NOS ANOS DE 2021 E 2022" na cota 2023/2024, premiado com Menção Honrosa no evento XXXI ENIC dentro do IV Congresso UNIVERSITÁRIO DA UEPB.
+
+Projeto de pesquisa PIBIC em desenvolvimento com o tema "NOVOS CLASSIFICADORES PARA SÉRIES TEMPORAIS APLICADAS A IMAGENS SAR" na cota 2024/2025 com o professor Dr. Pedro Monteiro de Almeida Junior.
+
+Projeto de Extensão como bolsista voltado à análise e mensuração dos custos dos principais itens de consumo no município de Campina Grande–PB, no ano de 2023 com carga horária total de 90 horas. Atuação no cálculo e análise do custo da cesta básica, bem como no levantamento sistemático de preços de combustíveis, medicamentos e gás de cozinha, utilizando dados coletados localmente para avaliação do impacto no poder de compra das famílias.
+
+## Prêmios e Publicações
+
+Menção honrosa na área Ciências Humanas pelo trabalho: Qualificando e quantificando a violência contra à mulher na Paraíba nos anos de 2021 e 2022, XXXI Encontro de Iniciação Científica - ENIC.
+
+Publicação de capítulo de livro: Qualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022. In: Rede de Saberes – Vol. 7. Campina Grande: EDUEPB, 2025, p. 378– 395.
+
+Publicação em anais de eventos: Qualificando e quantificando a violência contra a mulher na Paraíba nos anos de 2021 e 2022. XXXI Encontro de Iniciação Científica (ENIC) – UEPB, 2024, p. 621.
+
+## PARTICIPAÇÕES/APRESENTAÇÕES EM EVENTOS
+
+Participação no Congresso "V Encontro Paraibano de Estatística - V EPBEST" em 2025;
+
+Participação no Congresso "IV Encontro Paraibano de Estatística - EPBEST" em 2023;
+
+Apresentação de pôster no IV Encontro Paraibano de Estatística (EPBEST), 2023: Forecasting utilizando séries temporais e machine learning (Prophet) para previsão da precipitação total mensal (mm) em Campina Grande – PB.
+
+Participação no evento "Dia do Estatístico" do Departamento de Estatística da Universidade Estadual da Paraíba em 2023; • Participação no Congresso "II Congresso Universitário da UEPB" em 2022;
+
+Participação no evento "O Papel da Ciência de Dados na Estatística" do Departamento de Estatística da Universidade Estadual da Paraíba em 2023.
