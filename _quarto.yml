@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "ÍG"
+title: ""
+  title-logo: "logo.png"
   description: "Site profissional para contato e consultoria estatística "
 
   navbar:
