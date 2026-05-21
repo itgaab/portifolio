@@ -249,36 +249,21 @@
     "href": "projects.html",
     "title": "Projetos em andamento",
     "section": "",
-    "text": "Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional.",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos em andamento"
-    ]
+    "text": "Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional."
   },
   {
     "objectID": "projects.html#classificadores-para-séries-temporais-sar",
     "href": "projects.html#classificadores-para-séries-temporais-sar",
     "title": "Projetos em andamento",
     "section": "🌱 Classificadores para Séries Temporais (SAR)",
-    "text": "🌱 Classificadores para Séries Temporais (SAR)\n\nCNPq – PIBIC | 2025 – 2026\nDesenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR SNAP13 ASF Alask",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos em andamento"
-    ]
+    "text": "🌱 Classificadores para Séries Temporais (SAR)\n\nCNPq – PIBIC | 2025 – 2026\nDesenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR SNAP13 ASF Alask"
   },
   {
     "objectID": "projects.html#análise-espacial-da-violência-no-estado-de-pernambuco",
     "href": "projects.html#análise-espacial-da-violência-no-estado-de-pernambuco",
     "title": "Projetos em andamento",
     "section": "📊 Análise Espacial da Violência no Estado de Pernambuco",
-    "text": "📊 Análise Espacial da Violência no Estado de Pernambuco\n\nPesquisa Acadêmica\nEstudo estatístico e espacial da violência no estado de Pernambuco, utilizando técnicas de análise espacial, visualização geográfica e interpretação de indicadores socioeconômicos.\n\n\n\nTécnicas Utilizadas\n\nEstatística Espacial\nAnálise Exploratória de Dados\nConstrução de Mapas Temáticos\nGeoprocessamento\nVisualização Espacial\n\n\n\n\nFerramentas\nR QGIS",
-    "crumbs": [
-      "Início",
-      "Pesquisa",
-      "Projetos em andamento"
-    ]
+    "text": "📊 Análise Espacial da Violência no Estado de Pernambuco\n\nPesquisa Acadêmica\nEstudo estatístico e espacial da violência no estado de Pernambuco, utilizando técnicas de análise espacial, visualização geográfica e interpretação de indicadores socioeconômicos.\n\n\n\nTécnicas Utilizadas\n\nEstatística Espacial\nAnálise Exploratória de Dados\nConstrução de Mapas Temáticos\nGeoprocessamento\nVisualização Espacial\n\n\n\n\nFerramentas\nR QGIS"
   },
   {
     "objectID": "projeto2.html",

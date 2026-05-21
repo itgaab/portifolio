@@ -3,63 +3,22 @@ project:
   output-dir: docs
 
 website:
-title: 
-  title-logo: "logo.png"
-  description: "Site profissional para contato e consultoria estatística "
+  title: " "
 
   navbar:
+    logo: logo.png
     background: primary
     search: true
 
     left:
       - text: "Início"
         file: index.qmd
-        
+
       - text: "Projeto em Andamento"
         file: projects.qmd
 
       - text: "Projetos de pesquisa"
         file: projeto1.qmd
-        
+
       - text: "Projetos de extensão"
         file: projeto2.qmd
-
-      - text: "Repositorios Git"
-        file: repositorios.qmd
-
-      - text: "CV"
-        file: cv.qmd
-
-      - text: "Contato"
-        file: contact.qmd
-
-    right:
-      - icon: github
-        href: https://github.com/itgaab
-
-      - icon: linkedin
-        href: https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/
-
-  sidebar:
-    style: docked
-    search: true
-
-    contents:
-      - section: "Pesquisa"
-        contents:
-          - projects.qmd
-
-      - section: "Ensino"
-        contents:
-          - materials.qmd
-
-format:
-  html:
-    theme:
-      light: [lux, custom.scss]
-      dark: [darkly, custom.scss]
-
-    css: styles.css
-    toc: true
-    code-fold: true
-    code-tools: true
