@@ -1,10 +1,15 @@
-.navbar {
-  min-height: 90px;
-}
+/* =========================
+   LOGO NAVBAR
+========================= */
 
 .navbar-brand img {
-  max-height: 120px !important;
-  width: auto;
+  height: 70px !important;
+  width: auto !important;
+}
+
+.navbar-brand {
+  padding: 0 !important;
+  margin-right: 20px;
 }
 
 /* =========================
