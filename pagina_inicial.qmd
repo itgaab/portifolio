@@ -3,68 +3,59 @@ title: "Ítalo G. da Silva"
 subtitle: "Discente & Pesquisador | Departamento de Estatística | UEPB"
 image: perfil.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: linkedin
-      text: Linkedin
-      href: https://www.linkedin.com/in/%C3%ADtalo-gabriel-313194327/
+      text: LinkedIn
+      href: https://www.linkedin.com/in/...
     - icon: github
       text: Github
       href: https://github.com/itgaab
     - icon: envelope
       text: Email
       href: mailto:italozil08@gmail.com
+    - text: "Lattes"
+      href: https://lattes.cnpq.br/seu-id
 format:
   html:
+    toc: false
     css: styles.css
 ---
 
-<br>
 
-## SOBRE MIM
 
-Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.
+## SOBRE MIM {#sobre}
 
-Atuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados.
+Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB), com interesse em análise de dados, modelagem estatística e aplicações computacionais voltadas à resolução de problemas reais. Tenho experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, atuando na aplicação e interpretação de métodos estatísticos em diferentes contextos.
+
+Também trabalho com ferramentas e linguagens de programação como R, Python e HTML, utilizando recursos computacionais para análise, visualização e desenvolvimento de soluções baseadas em dados. Busco constantemente aprimorar meus conhecimentos e aplicar a Estatística de forma prática, clara e acessível.
+
 
 <br>
 
 ## ÁREAS DE INTERESSE
 
 ::: areas
-Estatística Aplicada
-
-Ciência de Dados
-
-Séries Temporais
-
-Machine Learning
-
-Sensoriamento Remoto
-
-Modelagem Estatística
-
-R & Python
+[Estatística Aplicada]{} [Ciência de Dados]{} [Séries Temporais]{} [Machine Learning]{} [Sensoriamento Remoto]{} [Modelagem Estatística]{} [R & Python]{}
 :::
 
-<br><br>
-
-<br><br>
+<br>
 
 ## FORMAÇÃO
 
 :::: timeline
 ::: timeline-item
 #### Graduando em Estatística — UEPB
-
-Cursos deu início no período 2022.2 e com data prevista para acabar ao fim do período 2026.2
+Curso com início no período 2022.2 e conclusão prevista ao fim do período 2026.2
 :::
 ::::
+
+<br>
 
 ## DESENVOLVIMENTO COMPUTACIONAL
 
 :::: timeline
 ::: timeline-item
-Experiência com R, Python, HTML, Quarto e visualização de dados.
+`R / RStudio` `Python` `Quarto` `HTML / CSS` `Git` `QGIS` `SNAP13` `VSCode`
 :::
 ::::

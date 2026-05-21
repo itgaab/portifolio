@@ -3,13 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: " "
-
   navbar:
     logo: logo.png
-    background: primary
-    search: true
-
+    logo-height: "35px"  # Aumente esse valor conforme necessário (ex: 45px, 50px)
+    background: "#0f172a"
+    tools: [] # apenas se houver
+    
     left:
       - text: "Início"
         file: index.qmd
@@ -22,3 +21,35 @@ website:
 
       - text: "Projetos de extensão"
         file: projeto2.qmd
+        
+      - text: "Repositorios GitHub"
+        file: repositorios.qmd
+        
+      - text: "Currículo"
+        file: cv.qmd
+        
+      - text: "Contato"
+        file: contact.qmd
+
+
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Pesquisa"
+        contents:
+          - projects.qmd
+      - section: "Ensino"
+        contents:
+          - materials.qmd
+
+format:
+  html:
+    theme: 
+      light: [lux, custom.scss]
+      dark: [darkly, custom.scss]
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-tools: true

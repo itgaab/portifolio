@@ -56,32 +56,39 @@
     "text": "Áreas Relacionadas\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nSensoriamento Remoto\nEstatística Espacial\nEstatística Descritiva\nMachine Learning\nModelagem de Dados"
   },
   {
-    "objectID": "pagina_inicial.html#sobre-mim",
-    "href": "pagina_inicial.html#sobre-mim",
+    "objectID": "pagina_inicial.html",
+    "href": "pagina_inicial.html",
     "title": "Ítalo G. da Silva",
-    "section": "SOBRE MIM",
-    "text": "SOBRE MIM\nSou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.\nAtuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados."
+    "section": "",
+    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB), com interesse em análise de dados, modelagem estatística e aplicações computacionais voltadas à resolução de problemas reais. Tenho experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, atuando na aplicação e interpretação de métodos estatísticos em diferentes contextos.\nTambém trabalho com ferramentas e linguagens de programação como R, Python e HTML, utilizando recursos computacionais para análise, visualização e desenvolvimento de soluções baseadas em dados. Busco constantemente aprimorar meus conhecimentos e aplicar a Estatística de forma prática, clara e acessível."
+  },
+  {
+    "objectID": "pagina_inicial.html#sobre",
+    "href": "pagina_inicial.html#sobre",
+    "title": "Ítalo G. da Silva",
+    "section": "",
+    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB), com interesse em análise de dados, modelagem estatística e aplicações computacionais voltadas à resolução de problemas reais. Tenho experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, atuando na aplicação e interpretação de métodos estatísticos em diferentes contextos.\nTambém trabalho com ferramentas e linguagens de programação como R, Python e HTML, utilizando recursos computacionais para análise, visualização e desenvolvimento de soluções baseadas em dados. Busco constantemente aprimorar meus conhecimentos e aplicar a Estatística de forma prática, clara e acessível."
   },
   {
     "objectID": "pagina_inicial.html#áreas-de-interesse",
     "href": "pagina_inicial.html#áreas-de-interesse",
     "title": "Ítalo G. da Silva",
     "section": "ÁREAS DE INTERESSE",
-    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nMachine Learning\nSensoriamento Remoto\nModelagem Estatística\nR & Python"
+    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada Ciência de Dados Séries Temporais Machine Learning Sensoriamento Remoto Modelagem Estatística R & Python"
   },
   {
     "objectID": "pagina_inicial.html#formação",
     "href": "pagina_inicial.html#formação",
     "title": "Ítalo G. da Silva",
     "section": "FORMAÇÃO",
-    "text": "FORMAÇÃO\n\n\nGraduando em Estatística — UEPB\nCursos deu início no período 2022.2 e com data prevista para acabar ao fim do período 2026.2"
+    "text": "FORMAÇÃO\n\n\nGraduando em Estatística — UEPB\nCurso com início no período 2022.2 e conclusão prevista ao fim do período 2026.2"
   },
   {
     "objectID": "pagina_inicial.html#desenvolvimento-computacional",
     "href": "pagina_inicial.html#desenvolvimento-computacional",
     "title": "Ítalo G. da Silva",
     "section": "DESENVOLVIMENTO COMPUTACIONAL",
-    "text": "DESENVOLVIMENTO COMPUTACIONAL\n\n\nExperiência com R, Python, HTML, Quarto e visualização de dados."
+    "text": "DESENVOLVIMENTO COMPUTACIONAL\n\n\nR / RStudio Python Quarto HTML / CSS Git QGIS SNAP13 VSCode"
   },
   {
     "objectID": "cv.html#identificação",
@@ -217,53 +224,75 @@
     "text": "📧 Informações de Contato\n\nContato Profissional\nE-mail:\nitalozil08@gmail.com\n\nTelefone:\n(83) 99802-4716\n\nDisponível para:\n\nProjetos acadêmicos\nConsultoria estatística\nColaborações em pesquisa"
   },
   {
-    "objectID": "index.html#sobre-mim",
-    "href": "index.html#sobre-mim",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Ítalo G. da Silva",
-    "section": "SOBRE MIM",
-    "text": "SOBRE MIM\nSou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB). Possuo experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, com ênfase na aplicação de métodos estatísticos, modelagem e interpretação de dados.\nAtuo no uso de ferramentas computacionais e linguagens de programação como R, Python e HTML, voltadas à análise estatística e ao desenvolvimento de soluções baseadas em dados."
+    "section": "",
+    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB), com interesse em análise de dados, modelagem estatística e aplicações computacionais voltadas à resolução de problemas reais. Tenho experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, atuando na aplicação e interpretação de métodos estatísticos em diferentes contextos.\nTambém trabalho com ferramentas e linguagens de programação como R, Python e HTML, utilizando recursos computacionais para análise, visualização e desenvolvimento de soluções baseadas em dados. Busco constantemente aprimorar meus conhecimentos e aplicar a Estatística de forma prática, clara e acessível."
+  },
+  {
+    "objectID": "index.html#sobre",
+    "href": "index.html#sobre",
+    "title": "Ítalo G. da Silva",
+    "section": "",
+    "text": "Sou graduando em Estatística pela Universidade Estadual da Paraíba (UEPB), com interesse em análise de dados, modelagem estatística e aplicações computacionais voltadas à resolução de problemas reais. Tenho experiência nas áreas de Sensoriamento Remoto, Regressão, Estatística Descritiva, Estatística Computacional e Análise de Séries Temporais, atuando na aplicação e interpretação de métodos estatísticos em diferentes contextos.\nTambém trabalho com ferramentas e linguagens de programação como R, Python e HTML, utilizando recursos computacionais para análise, visualização e desenvolvimento de soluções baseadas em dados. Busco constantemente aprimorar meus conhecimentos e aplicar a Estatística de forma prática, clara e acessível."
   },
   {
     "objectID": "index.html#áreas-de-interesse",
     "href": "index.html#áreas-de-interesse",
     "title": "Ítalo G. da Silva",
     "section": "ÁREAS DE INTERESSE",
-    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada\nCiência de Dados\nSéries Temporais\nMachine Learning\nSensoriamento Remoto\nModelagem Estatística\nR & Python"
+    "text": "ÁREAS DE INTERESSE\n\nEstatística Aplicada Ciência de Dados Séries Temporais Machine Learning Sensoriamento Remoto Modelagem Estatística R & Python"
   },
   {
     "objectID": "index.html#formação",
     "href": "index.html#formação",
     "title": "Ítalo G. da Silva",
     "section": "FORMAÇÃO",
-    "text": "FORMAÇÃO\n\n\nGraduando em Estatística — UEPB\nCursos deu início no período 2022.2 e com data prevista para acabar ao fim do período 2026.2"
+    "text": "FORMAÇÃO\n\n\nGraduando em Estatística — UEPB\nCurso com início no período 2022.2 e conclusão prevista ao fim do período 2026.2"
   },
   {
     "objectID": "index.html#desenvolvimento-computacional",
     "href": "index.html#desenvolvimento-computacional",
     "title": "Ítalo G. da Silva",
     "section": "DESENVOLVIMENTO COMPUTACIONAL",
-    "text": "DESENVOLVIMENTO COMPUTACIONAL\n\n\nExperiência com R, Python, HTML, Quarto e visualização de dados."
+    "text": "DESENVOLVIMENTO COMPUTACIONAL\n\n\nR / RStudio Python Quarto HTML / CSS Git QGIS SNAP13 VSCode"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projetos em andamento",
     "section": "",
-    "text": "Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional."
+    "text": "Projetos acadêmicos desenvolvidos nas áreas de Estatística, Ciência de Dados, Sensoriamento Remoto e Modelagem Computacional.",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos em andamento"
+    ]
   },
   {
     "objectID": "projects.html#classificadores-para-séries-temporais-sar",
     "href": "projects.html#classificadores-para-séries-temporais-sar",
     "title": "Projetos em andamento",
     "section": "🌱 Classificadores para Séries Temporais (SAR)",
-    "text": "🌱 Classificadores para Séries Temporais (SAR)\n\nCNPq – PIBIC | 2025 – 2026\nDesenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR SNAP13 ASF Alask"
+    "text": "🌱 Classificadores para Séries Temporais (SAR)\n\nCNPq – PIBIC | 2025 – 2026\nDesenvolvimento de classificadores estatísticos aplicados a séries temporais provenientes de imagens SAR, utilizando medidas de divergência e técnicas de reconhecimento de padrões.\n\nPrincipais atividades:\n\nModelagem estatística de dados SAR\nDesenvolvimento de classificadores\nImplementação em R e Python\nAvaliação de desempenho computacional\n\n\nTecnologias:\nR Python SAR SNAP13 ASF Alask",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos em andamento"
+    ]
   },
   {
     "objectID": "projects.html#análise-espacial-da-violência-no-estado-de-pernambuco",
     "href": "projects.html#análise-espacial-da-violência-no-estado-de-pernambuco",
     "title": "Projetos em andamento",
     "section": "📊 Análise Espacial da Violência no Estado de Pernambuco",
-    "text": "📊 Análise Espacial da Violência no Estado de Pernambuco\n\nPesquisa Acadêmica\nEstudo estatístico e espacial da violência no estado de Pernambuco, utilizando técnicas de análise espacial, visualização geográfica e interpretação de indicadores socioeconômicos.\n\n\n\nTécnicas Utilizadas\n\nEstatística Espacial\nAnálise Exploratória de Dados\nConstrução de Mapas Temáticos\nGeoprocessamento\nVisualização Espacial\n\n\n\n\nFerramentas\nR QGIS"
+    "text": "📊 Análise Espacial da Violência no Estado de Pernambuco\n\nPesquisa Acadêmica\nEstudo estatístico e espacial da violência no estado de Pernambuco, utilizando técnicas de análise espacial, visualização geográfica e interpretação de indicadores socioeconômicos.\n\n\n\nTécnicas Utilizadas\n\nEstatística Espacial\nAnálise Exploratória de Dados\nConstrução de Mapas Temáticos\nGeoprocessamento\nVisualização Espacial\n\n\n\n\nFerramentas\nR QGIS",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos em andamento"
+    ]
   },
   {
     "objectID": "projeto2.html",
